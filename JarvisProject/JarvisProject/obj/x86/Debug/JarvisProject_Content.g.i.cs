@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/tulips.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("microsoft.kinect.toolkit.csproj")]
 
 
